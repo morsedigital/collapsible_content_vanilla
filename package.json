@@ -58,6 +58,6 @@
   },
   "peerDependencies": {
     "lodash": "^4.6.0",
-    "viewport-detection-es6": "^0.0.10"
+    "viewport-detection-es6": "^2.0.3"
   }
 }
