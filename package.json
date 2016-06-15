@@ -1,6 +1,6 @@
 {
   "name": "@morsedigital/collapsible_content_vanilla",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vanilla JS collapsible content",
   "main": "index.js",
   "scripts": {
