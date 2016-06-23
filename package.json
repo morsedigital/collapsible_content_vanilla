@@ -53,7 +53,7 @@
     "lodash": "^4.6.0",
     "phantomjs-prebuilt": "^2.1.4",
     "rewireify": "^0.2.5",
-    "viewport-detection-es6": "^0.0.10",
+    "viewport-detection-es6": "^2.0.3",
     "watchify": "^3.7.0"
   },
   "peerDependencies": {
